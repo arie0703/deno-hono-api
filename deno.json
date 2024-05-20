@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": "deno run -A --unstable main.ts"
+  },
+  "imports": {
+    "hono": "https://deno.land/x/hono@v3.9.0/mod.ts",
+    "ulid": "https://deno.land/x/ulid@v0.3.0/mod.ts"
+  }
+}
